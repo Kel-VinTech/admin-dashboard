@@ -233,6 +233,7 @@ header .nav-icons{
 header .nav-icons i{
     background: #fff;
     border-radius: 12px;
+    color: rgb(103, 103, 103);
     height: 35px;
     width: 35px;
     font-size: 15px;
